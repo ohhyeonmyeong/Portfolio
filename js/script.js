@@ -6,6 +6,7 @@ const photoArr = [
     ["Origin.png", "[Origin]", "HTML5 / CSS / (publish)", "publish", "https://ohhyeonmyeong.github.io/Origin/"],
     ["Inspace.png", "[Inspace]", "HTML5 / CSS / Jquery / (publish)", "publish", "https://ohhyeonmyeong.github.io/Inspace/"],
     ["Kuliner.png", "[kuliner]", "HTML5 / CSS / (publish)", "publish", "https://ohhyeonmyeong.github.io/kuliner/"],
+    ["Investplan.png", "[Investplan]", "HTML5 / CSS / (publish)", "publish", "https://ohhyeonmyeong.github.io/Investcompony/"],
     ["Oclass.png", "[oclass]", "HTML5 / CSS / Jquery / Javacaript / PHP (develop)", "develop", "http://gusaud9424.dothome.co.kr/oclass/"],
     ["Cakecious.png", "[Cakecious]", "HTML5 / CSS / (publish)", "publish", "https://ohhyeonmyeong.github.io/Cakecious/"],
     ["coffeemake.png", "[coffeemake]", "HTML5 / CSS / Jquery / Javacaript / PHP (develop)", "develop", "http://gusauddl9424.pe.kr/coffeemake/"],
